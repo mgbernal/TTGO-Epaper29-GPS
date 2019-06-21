@@ -18,8 +18,8 @@ static const uint8_t MISO = 2;
 
 Add following library using Arduino IDE Manage Libraries or Download Zip:
 
-https://github.com/ZinggJM/GxEPD
-https://github.com/mikalhart/TinyGPSPlus
+* https://github.com/ZinggJM/GxEPD
+* https://github.com/mikalhart/TinyGPSPlus
 
 Solder headers onto gps chip
 
